@@ -15,7 +15,7 @@ I'm answering questions from either:
 * [SPOJ](https://www.spoj.com/)
 * [GoogleCodeJam](https://code.google.com/codejam/contests.html)
 
-I'm not putting all the enunciate or the reference from the question to avoid people not buying the books or cheating on the judges. But it will be found in one or more of those references.
+I'm not putting all the question exactly as the source, or it's reference, in order to avoid people not buying the books or cheating on the judges. But it will be found in one or more of those references.
 
 Some will not compile without doing some extra work, such as renaming the files that are on Java Language (I altered the name to make it easy to search later) Or implementing a main method, for problems like the ones from Google Code Jam.
 
