@@ -6,6 +6,10 @@ using System.Text;
 
 namespace CodeForces
 {
+    /*
+     * Answer to:
+     * http://codeforces.com/contest/349/problem/B
+     */ 
     public class ColorTheFence
     {
         public static void Answer(TextReader reader)
